@@ -33,7 +33,7 @@ If you are interested in using this site, you need to know a few things!
 - The most important part is in `config.js`
   - **P.S.** You need to fill in everything right, especially your discord ID, for everything to work without any errors.
 ```js
-const USER_ID = "YOUR DISCORD ID HERE";
+const USER_ID = "919580300013604905";
 const BACKGROUND_IMAGE = "assets/images/";
 ```
 
@@ -43,4 +43,4 @@ Remembering that you can use and abuse this site as you want, I'm posting it her
 
 ### 🙏 Thanks
 
-[Lanyard API](https://github.com/Phineas/lanyard/), an amazing project with an excellent author that made me come up with the idea of making a website like this!
+[Lanyard API](https://github.com/phamtungnguyen59), an amazing project with an excellent author that made me come up with the idea of making a website like this!
